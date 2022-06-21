@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Pam";
+}
+@Html.Partial("Formulaire")
+<tr>
+    <td>Liste déroulante</td>
+    <td>
+        @Html.DropDownListFor(m => m.DropDownListField,
+       new SelectList(@Model.DropDownListFieldItems, "Value", "Label"))
+    </td>
+</tr>

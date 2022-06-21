@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pam-metier-simule", "pam-metier-simule\pam-metier-simule.csproj", "{4FD10BDD-36B2-491F-A0D5-F01A0638DB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pam-web-01", "pam-web-01\pam-web-01.csproj", "{4A9D9DCA-C160-4442-9927-6C7B646D2966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD10BDD-36B2-491F-A0D5-F01A0638DB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD10BDD-36B2-491F-A0D5-F01A0638DB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD10BDD-36B2-491F-A0D5-F01A0638DB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD10BDD-36B2-491F-A0D5-F01A0638DB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9D9DCA-C160-4442-9927-6C7B646D2966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9D9DCA-C160-4442-9927-6C7B646D2966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9D9DCA-C160-4442-9927-6C7B646D2966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9D9DCA-C160-4442-9927-6C7B646D2966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28C7CED-2491-4DAD-B1D1-277263FC977B}
+	EndGlobalSection
+EndGlobal
