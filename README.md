@@ -16,5 +16,5 @@ Les outils utiliser pour la réalisation de ces exemple sont les suivant:
 
 
 ## Etape de Creation:
-### Nous avons commencer par créer notre interface 
+### Nous avons commencer par créer nos classe modèle puis on a generer l'interface avec des Vue et relier les action a l'aide de Ajax
 
